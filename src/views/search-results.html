@@ -1,0 +1,62 @@
+{% extends "layout.html" %}
+<!-- Utiliza o layout já pronto-->
+
+{% set pageId = "page-search-results" %}
+<!--Muda o id do content-->
+
+{% block title %}
+    <!--Modifica o bloco padrão do layout-->
+    <title>Resultado da pesquisa</title>
+
+{% endblock title %}
+
+{% block styles %}
+    <!--Adiciona uma link no layout-->
+    <link rel="stylesheet" href="/styles/search-results.css">
+
+{% endblock styles %}
+
+{% block content %}
+    {% include "partials/page-header.html" %}
+
+    <main>
+
+        {% if total > 0 %}
+
+            <h4>
+                <strong>{{total}}
+                    pontos</strong>
+                encontrados
+            </h4>
+
+            <div class="cards">
+
+                {% for place in places %}
+                    <!--Repete o html até acabar os objetos do array-->
+
+                    <div class="card">
+                        <img src="{{ place.image }}" alt="{{ place.name }}">
+                        <h1>{{ place.name }}</h1>
+                        <h3>{{ place.items }}</h3>
+                        <p>
+                            {{ place.city }},
+                            {{ place.state }}
+                            <br/>
+                            {{ place.address }}
+                            <br/>
+                            {{ place.address2 }}
+                        </p>
+                    </div>
+
+                {% endfor %}
+
+            </div>
+
+            {%else%}
+            <!-- Se não tiver nada ele faz isso-->
+            <h4><strong>Nenhum</strong> local encontrado</h4>
+
+        {% endif %}
+
+    </main>
+{% endblock content %}
