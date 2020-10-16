@@ -18,7 +18,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 ### Search Not Found:
 ![Search Not Found](https://user-images.githubusercontent.com/60316602/96303253-7aa24080-0fd0-11eb-8d21-bdc63aa07194.png)
 ---
-### VIDEO FOR USABILITY SHOW: [LINK](https://youtu.be/4-X0X_5wtYA)
+### USABILITY DEMONSTRATION VIDEO: [LINK](https://youtu.be/4-X0X_5wtYA)
 ---
 ## STARTING AT THE LOCAL MACHINE
 
@@ -34,18 +34,22 @@ O objetivo dessa Aplicação Web é de **conectar** pontos de coleta e pessoas q
 Os pontos podem atuar na coleta de: Lâmpada; Bateria e pilha papel; Resíduo Eletrônico e orgânico e óleo de cozinha. E são localizados pela cidade em que se situam
 
 ## Demonstração:
-### Tela Inicial
+### Tela Inicial:
 ![Tela Inicial](https://user-images.githubusercontent.com/60316602/96302888-e7690b00-0fcf-11eb-830f-bf3be82a1e42.png)
-### Área de cadastro
+---
+### Área de cadastro:
 ![Área de cadastro](https://user-images.githubusercontent.com/60316602/96302661-8c371880-0fcf-11eb-9d9a-a685a44763d1.png)
-### Área de Pesquisa
+---
+### Área de Pesquisa:
 ![Área de Pesquisa](https://user-images.githubusercontent.com/60316602/96303025-239c6b80-0fd0-11eb-85e5-6a20dffa33e7.png)
-### Pesquisas Encontradas
+---
+### Pesquisas Encontradas:
 ![Pesquisas Encontradas](https://user-images.githubusercontent.com/60316602/96303168-5a728180-0fd0-11eb-9e64-11b771ea20e2.png)
-### Pesquisa Não Encontrada
+---
+### Pesquisa Não Encontrada:
 ![Pesquisa Não Encontrada](https://user-images.githubusercontent.com/60316602/96303253-7aa24080-0fd0-11eb-8d21-bdc63aa07194.png)
-
-### VÍDEO PARA DEMOSTRAÇÃO DE USABILIDADE: [LINK](https://youtu.be/4-X0X_5wtYA)
+---
+### VÍDEO DE DEMONSTRAÇÃO DE USABILIDADE: [LINK](https://youtu.be/4-X0X_5wtYA)
 ---
 ## INICIANDO NA MÁQUINA LOCAL
 
