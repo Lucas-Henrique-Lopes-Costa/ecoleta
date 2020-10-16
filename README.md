@@ -18,7 +18,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 ### Search Not Found:
 ![Search Not Found](https://user-images.githubusercontent.com/60316602/96303253-7aa24080-0fd0-11eb-8d21-bdc63aa07194.png)
 ---
-### VIDEO FOR USABILITY SHOW: [LINK] (https://youtu.be/4-X0X_5wtYA)
+### VIDEO FOR USABILITY SHOW: [LINK](https://youtu.be/4-X0X_5wtYA)
 ---
 ## STARTING AT THE LOCAL MACHINE
 
