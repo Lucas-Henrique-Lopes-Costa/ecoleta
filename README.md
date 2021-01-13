@@ -24,7 +24,17 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 
 Type the command in the terminal: ```npm start```
 
-After **started** open the link in your browser: [Access](http://localhost:3000/) -Access to Local Host-
+If you any errors, type:
+``
+npm install
+rebuild npm
+``
+
+After **started** open the link in your browser: [Access](http://localhost:5500/) -Access to Local Host-
+
+For a better experience, use Chrome and remove your bookmarks bar:
+
+ctrl + shift + b
 
 __*Website developed with the help of RoktSeat*__
 
@@ -53,8 +63,21 @@ Os pontos podem atuar na coleta de: Lâmpada; Bateria e pilha papel; Resíduo El
 ---
 ## INICIANDO NA MÁQUINA LOCAL
 
-Digite o comando no terminal: ```npm start```
+Digite o comando no terminal: 
+```
+npm start
+```
+
+Caso tenha algum erro, digite:
+```
+npm install
+npm rebuild
+```
 
 Após **inicado** abra o link no seu navegador: [Acesse](http://localhost:3000/) -Acesso ao Local Host-
+
+Para ter uma melhor experiência, ocute sua barra de favoritos do Chrome:
+
+ctrl + shift + b
 
 __*Site desenvolvido com ajuda da RoktSeat*__
