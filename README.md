@@ -2,7 +2,7 @@
 The purpose of this Web Application is to **connect** collection points and people who need one.
 The points can act in the collection of: Lamp; Battery and paper stack; Electronic and organic waste and cooking oil. And they are located by the city in which they are located
 
-## Demonstration:
+## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
 ### Home screen:
 ![Home Screen](https://user-images.githubusercontent.com/60316602/96302888-e7690b00-0fcf-11eb-830f-bf3be82a1e42.png)
 ---
