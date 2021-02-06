@@ -1,8 +1,11 @@
 # Ecoleta
 The purpose of this Web Application is to **connect** collection points and people who need one.
 The points can act in the collection of: Lamp; Battery and paper stack; Electronic and organic waste and cooking oil. And they are located by the city in which they are located
-
+---
 ## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
+### USABILITY DEMONSTRATION VIDEO: 
+![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
+---
 ### Home screen:
 ![Home Screen](https://user-images.githubusercontent.com/60316602/96302888-e7690b00-0fcf-11eb-830f-bf3be82a1e42.png)
 ---
@@ -18,8 +21,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 ### Search Not Found:
 ![Search Not Found](https://user-images.githubusercontent.com/60316602/96303253-7aa24080-0fd0-11eb-8d21-bdc63aa07194.png)
 ---
-### USABILITY DEMONSTRATION VIDEO: [LINK](https://youtu.be/4-X0X_5wtYA)
----
+
 ## STARTING AT THE LOCAL MACHINE
 
 Type the command in the terminal: ```npm start```
