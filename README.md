@@ -6,6 +6,8 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 ### USABILITY DEMONSTRATION VIDEO: 
 ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
 
+[Youtube Video](https://www.youtube.com/watch?v=4-X0X_5wtYA&ab_channel=LucasHenrique)
+
 ---
 
 ### Home screen:
